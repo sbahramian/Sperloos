@@ -1,0 +1,6 @@
+{
+    "get_london_weather" : {
+        "daily" : "https://www.accuweather.com/en/gb/london/ec4a-2/daily-weather-forecast/328328",
+        "monthly" : "https://www.accuweather.com/en/gb/london/ec4a-2/september-weather/328328"
+    }
+}

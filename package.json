@@ -1,0 +1,24 @@
+{
+  "name": "accuweather",
+  "version": "1.0.0",
+  "description": "web crawler from accuweather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler",
+    "accuweather"
+  ],
+  "author": "saeid bahramian",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "jsdom": "^17.0.0",
+    "prettyjson": "^1.2.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
