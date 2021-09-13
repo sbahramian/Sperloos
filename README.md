@@ -4,14 +4,14 @@
 ** 09039937184 09144078517                                                                                 **
 *************************************************************************************************************
 
-step 1) #####################################################################################################
+step 1)  
 This app is for daily and monthly weather information in London.
 Information is received from site https://www.accuweather.com/
 
 npm install
 node .\index.js
 
-step 2) #####################################################################################################
+step 2)  
 To change the city, please refer to the config section.
 ./config/default_config.json
 
@@ -22,12 +22,13 @@ To change the city, please refer to the config section.
     }
 }
 
-step 3) #####################################################################################################
+step 3)  
 After running the application in the current output path will be located in the './result/london.json' folder
 
-step 4) #####################################################################################################
+step 4)  
 And this is an output taken from the program
 
+sample resullt)
 {
     "city_name": "London",
     "update_tiem": "2021-09-13T13:22:57.715Z",
